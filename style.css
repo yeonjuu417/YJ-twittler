@@ -1,0 +1,91 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+#title{
+    width: 600px;
+    height: 80px;
+    background-color:#c7daea;
+    border: 5px #9dc0e1 solid;
+    text-align: center;
+    margin: auto;
+    height: 100%;
+}
+#title span {
+    color: white;
+    display: inline-block;
+    font: bold;
+    font-size: 70px;
+    
+}
+#typing{
+    width: 600px;
+    height: 300px;
+    background-color:#82b2d9;
+    margin: auto;
+    margin-top: 30px;
+    border: 1px #82b2d9 solid ;
+    
+}
+#typing div{
+    margin-left : 16px;
+    margin-top: 16px;
+    width: 500px;
+    height: 200px;
+    
+}
+#type2{
+    width:500px;
+    height: 80px;
+}
+#type3{
+    width:80px ;
+    height: 40px;
+    font-size: 18px;
+}
+#section2{
+    width: 600px;
+    height: 500px;    
+    margin: auto;
+    
+}
+#new_button{
+    width: 600px;
+    height: 60px;
+    background-color: #2a55b3;
+    margin-top: 20px;
+    border: 1px #2a55b3 solid;
+}
+#newbutton{
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 16px; 
+    font-size: 15px;
+}
+#list{
+    width: 600px;
+    height: 330px;
+    background-color:#cfeaf7 ;
+    border: 1px #cfeaf7 solid ;
+}
+.reple{
+    width: 520px;
+    height: 40px;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-right: 35px;
+}
+.name{
+    float: left;
+    font-weight: bolder;
+}
+.comment{
+    float: left;
+}
+.date{
+    float: right;
+}
